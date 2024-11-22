@@ -12,7 +12,7 @@ sites:
   - name: MetaIS
     url: https://metais.slovensko.sk
   - name: Web Centrálna Integračná Platforma
-    url: https://cip.gov.sk/
+    url: https://cip.gov.sk/portal
   - name: Web data.gov.sk
     url: https://data.gov.sk
   - name: Národný katalóg otvorených dát
