@@ -25,6 +25,8 @@ sites:
     url: https://ep.slovensko.sk/titulna-stranka
   - name: SVM API endpoint
     url: https://api.slovensko.sk
+    headers:
+      - "Content-Type: application/json"
   - name: ITMS 1
     url: https://www.itms.sk
   - name: ITMS2014+
