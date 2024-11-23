@@ -17,6 +17,10 @@ sites:
     url: https://health.gov.sk
   - name: Web MCRS SR
     url: https://mincrs.sk
+  - name: Web MS SR
+    url: https://www.justice.gov.sk
+  - name: Slov Lex
+    url: https://www.slov-lex.sk
   - name: MetaIS
     url: https://metais.slovensko.sk
   - name: Web Centrálna Integračná Platforma
