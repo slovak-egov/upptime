@@ -5,20 +5,40 @@ repo: upptime # The name of this repository
 sites:
   - name: Web MIRRI SR
     url: https://www.mirri.gov.sk
+  - name: Web MV SR
+    url: https://www.minv.sk
+  - name: Web MZ SR
+    url: https://health.gov.sk
+  - name: Web MD SR
+    url: https://www.mindop.sk
+  - name: Web MF SR
+    url: https://www.mfsr.sk/sk
+  - name: Web MH SR
+    url: https://www.mhsr.sk
+  - name: Web MK SR
+    url: https://www.culture.gov.sk
+  - name: Web MO SR
+    url: https://www.mosr.sk
+  - name: Web MP SR
+    url: https://www.mpsr.sk
+  - name: Web MPSVaR SR
+    url: https://www.employment.gov.sk/sk
+  - name: Web MŠVVaM SR
+    url: https://www.minedu.sk
+  - name: Web MZV SR
+    url: https://www.mzv.sk
+  - name: Web MŽP SR
+    url: https://www.minzp.sk
+  - name: Web MCRS SR
+    url: https://mincrs.sk
+  - name: Web MS SR
+    url: https://www.justice.gov.sk
   - name: Web Slovensko.sk (ÚPVS)
     url: https://www.slovensko.sk
   - name: Web NASES
     url: https://nases.gov.sk
   - name: Web Sociálna poisťovňa
     url: https://www.socpoist.sk
-  - name: Web MV SR
-    url: https://www.minv.sk
-  - name: Web MZ SR
-    url: https://health.gov.sk
-  - name: Web MCRS SR
-    url: https://mincrs.sk
-  - name: Web MS SR
-    url: https://www.justice.gov.sk
   - name: Slov Lex
     url: https://www.slov-lex.sk
   - name: MetaIS
@@ -35,16 +55,16 @@ sites:
     url: https://idsk.gov.sk
   - name: SVM Enrollment Portál
     url: https://ep.slovensko.sk/titulna-stranka
-  - name: SVM API endpoint
-    url: https://api.slovensko.sk
-    method: POST
-    headers:
-      - "Content-Type: application/json"
-      - 'Accept: application/json'
-  - name: ITMS 1
-    url: https://www.itms.sk
-  - name: ITMS2014+
-    url: https://www.itms2014.sk
+#  - name: SVM API endpoint
+#    url: https://api.slovensko.sk
+#    method: GET
+#    headers:
+#      - "Content-Type: application/json"
+#      - 'Accept: application/json'
+#  - name: ITMS 1
+#    url: https://www.itms.sk
+#  - name: ITMS2014+
+#    url: https://www.itms2014.sk
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
