@@ -57,6 +57,8 @@ sites:
     url: https://ep.slovensko.sk/titulna-stranka
   - name: Repo eID MV SR
     url: https://eidas.minv.sk/download
+  - name: Katastrálna mapa
+    url: https://kataster.skgeodesy.sk/GisPortal
 #  - name: SVM API endpoint
 #    url: https://api.slovensko.sk
 #    method: GET
