@@ -55,6 +55,8 @@ sites:
     url: https://idsk.gov.sk
   - name: SVM Enrollment Portál
     url: https://ep.slovensko.sk/titulna-stranka
+  - name: Repo eID MV SR
+    url: https://eidas.minv.sk/download
 #  - name: SVM API endpoint
 #    url: https://api.slovensko.sk
 #    method: GET
