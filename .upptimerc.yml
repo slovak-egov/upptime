@@ -59,6 +59,8 @@ sites:
     url: https://eidas.minv.sk/download
   - name: Katastrálna mapa
     url: https://kataster.skgeodesy.sk/GisPortal
+  - name: Web SNCA
+    url: https://snca.gov.sk
   - name: GovNet Mail GW
     url: mail.gov.sk
     port: 25
