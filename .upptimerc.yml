@@ -41,6 +41,8 @@ sites:
     url: https://www.socpoist.sk
   - name: Slov Lex
     url: https://www.slov-lex.sk
+  - name: Centrálny register zmluv SR
+    url: https://crz.gov.sk
   - name: MetaIS
     url: https://metais.slovensko.sk
   - name: Web Centrálna Integračná Platforma
