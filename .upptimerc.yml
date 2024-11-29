@@ -39,6 +39,8 @@ sites:
     url: https://nases.gov.sk
   - name: Web Sociálna poisťovňa
     url: https://www.socpoist.sk
+  - name: Web Úrad na ochranu osobných údajov
+    url: https://dataprotection.gov.sk/sk/
   - name: Slov Lex
     url: https://www.slov-lex.sk
   - name: Centrálny register zmluv SR
