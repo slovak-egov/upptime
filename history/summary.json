@@ -80,11 +80,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.mfsr.sk.ico",
     "slug": "web-mf-sr",
     "status": "up",
-    "uptime": "84.27%",
+    "uptime": "84.29%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "84.27%",
-    "uptimeMonth": "84.27%",
-    "uptimeYear": "84.27%",
+    "uptimeWeek": "84.29%",
+    "uptimeMonth": "84.29%",
+    "uptimeYear": "84.29%",
     "time": 1980,
     "timeDay": 1972,
     "timeWeek": 1980,
@@ -166,7 +166,7 @@
     "timeMonth": 77,
     "timeYear": 77,
     "dailyMinutesDown": {
-      "2024-11-30": 259,
+      "2024-11-30": 263,
       "2024-11-29": 1440,
       "2024-11-28": 1440,
       "2024-11-27": 149
@@ -195,19 +195,19 @@
     "url": "https://www.minedu.sk",
     "icon": "https://icons.duckduckgo.com/ip3/www.minedu.sk.ico",
     "slug": "web-msv-va-m-sr",
-    "status": "down",
-    "uptime": "99.78%",
-    "uptimeDay": "99.49%",
-    "uptimeWeek": "99.78%",
-    "uptimeMonth": "99.78%",
-    "uptimeYear": "99.78%",
+    "status": "up",
+    "uptime": "99.67%",
+    "uptimeDay": "99.25%",
+    "uptimeWeek": "99.67%",
+    "uptimeMonth": "99.67%",
+    "uptimeYear": "99.67%",
     "time": 1034,
     "timeDay": 1044,
     "timeWeek": 1034,
     "timeMonth": 1034,
     "timeYear": 1034,
     "dailyMinutesDown": {
-      "2024-11-30": 7
+      "2024-11-30": 11
     }
   },
   {
@@ -427,7 +427,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-30": 259,
+      "2024-11-30": 263,
       "2024-11-29": 1440,
       "2024-11-28": 1440,
       "2024-11-27": 1440,
@@ -563,7 +563,7 @@
     "timeMonth": 867,
     "timeYear": 867,
     "dailyMinutesDown": {
-      "2024-11-30": 259,
+      "2024-11-30": 264,
       "2024-11-29": 1440,
       "2024-11-28": 1440,
       "2024-11-27": 80
