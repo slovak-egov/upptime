@@ -69,6 +69,14 @@ sites:
     url: mail.gov.sk
     port: 25
     check: "tcp-ping"
+  - name: GovNet DNS1 GW
+    url: 195.49.191.160
+    port: 53
+    check: "tcp-ping"
+  - name: GovNet DNS2 GW
+    url: 195.49.191.162
+    port: 53
+    check: "tcp-ping"
 #  - name: SVM API endpoint
 #    url: https://api.slovensko.sk
 #    method: GET
