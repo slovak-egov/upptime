@@ -166,7 +166,7 @@
     "timeMonth": 85,
     "timeYear": 85,
     "dailyMinutesDown": {
-      "2024-12-04": 477,
+      "2024-12-04": 479,
       "2024-12-03": 1440,
       "2024-12-02": 1440,
       "2024-12-01": 1440,
@@ -434,7 +434,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-12-04": 477,
+      "2024-12-04": 480,
       "2024-12-03": 1440,
       "2024-12-02": 1440,
       "2024-12-01": 1440,
@@ -455,18 +455,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/portal.camp.slovensko.sk.ico",
     "slug": "web-centralna-api-manazment-platforma",
     "status": "down",
-    "uptime": "1.95%",
-    "uptimeDay": "1.95%",
-    "uptimeWeek": "1.95%",
-    "uptimeMonth": "1.95%",
-    "uptimeYear": "1.95%",
+    "uptime": "0.85%",
+    "uptimeDay": "0.85%",
+    "uptimeWeek": "0.85%",
+    "uptimeMonth": "0.85%",
+    "uptimeYear": "0.85%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-12-04": 2
+      "2024-12-04": 4
     }
   },
   {
@@ -594,7 +594,7 @@
     "timeMonth": 869,
     "timeYear": 869,
     "dailyMinutesDown": {
-      "2024-12-04": 478,
+      "2024-12-04": 480,
       "2024-12-03": 1440,
       "2024-12-02": 1440,
       "2024-12-01": 1440,
