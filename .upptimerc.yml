@@ -47,6 +47,11 @@ sites:
     url: https://crz.gov.sk
   - name: MetaIS
     url: https://metais.slovensko.sk
+  - name: MetaIS CMDB API
+    url: https://metais.slovensko.sk/api/cmdb/read/cilist
+    headers:
+      - 'Content-Type: application/json'
+      - 'Accept: application/json'
   - name: Web Centrálna Integračná Platforma
     url: https://cip.gov.sk/portal
   - name: Web Centrálna API Manažment Platforma
