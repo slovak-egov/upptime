@@ -49,6 +49,8 @@ sites:
     url: https://metais.slovensko.sk
   - name: Web Centrálna Integračná Platforma
     url: https://cip.gov.sk/portal
+  - name: Web Centrálna API Manažment Platforma
+    url: https://portal.camp.slovensko.sk/
   - name: Web data.gov.sk
     url: https://data.gov.sk
   - name: Národný katalóg otvorených dát
@@ -63,6 +65,8 @@ sites:
     url: https://eidas.minv.sk/download
   - name: Katastrálna mapa
     url: https://kataster.skgeodesy.sk/GisPortal
+  - name: Web Register partnerov VS
+    url: https://rpvs.gov.sk/rpvs
   - name: Web SNCA
     url: https://snca.gov.sk
   - name: GovNet Mail GW
