@@ -1,7 +1,7 @@
 url: https://metais.slovensko.sk/api/cmdb/read/cilist
 status: down
-code: 500
-responseTime: 1255
-lastUpdated: 2024-12-09T16:27:04.249Z
+code: 400
+responseTime: 1777
+lastUpdated: 2024-12-09T16:28:26.524Z
 startTime: 2024-12-04T08:01:31.527Z
 generator: Upptime <https://github.com/upptime/upptime>
